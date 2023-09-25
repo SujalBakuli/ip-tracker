@@ -1,7 +1,7 @@
 #!/bin/bash/python
 
 #IMEI number
-#Google map
+
 
 try:
     from ip2geotools.databases.noncommercial import DbIpCity
